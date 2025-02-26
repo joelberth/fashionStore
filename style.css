@@ -54,7 +54,7 @@ nav ul li a:hover {
 
 /* Seção Hero */
 .hero {
-    background: url('fashion-banner.jpg') center/cover no-repeat;
+    background: url('img/fashion-banner.jpg') center/cover no-repeat;
     height: 100vh;
     display: flex;
     align-items: center;
